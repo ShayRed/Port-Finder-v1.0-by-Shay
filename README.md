@@ -26,7 +26,9 @@ Monitor connections, analyze network traffic, and track server performance with 
 
 ## ⚠️ Antivirus Notice
 
-Some antivirus programs may report a false positive. This is due to the way the program is compiled into an EXE file. The tool is completely safe and is designed specifically for:
+Some antivirus programs may report a false positive. This is due to the way the program is compiled into an EXE file. 
+The tool is completely safe and is designed specifically for:
+
 - Game server monitoring
 - Network connection analysis
 - Process performance tracking
@@ -43,6 +45,20 @@ This is a common occurrence with network monitoring tools as they require system
 - Purely local analysis
 - Only monitors specified game processes
 - No system modifications
+
+## 🛡️ Technical Safety Details
+
+The tool only performs:
+- Port scanning of specified ranges
+- Memory reading of selected processes
+- Network traffic monitoring
+- System resource analysis
+
+All operations are:
+- Visible in real-time through the interface
+- Limited to game-related processes
+- Locally executed
+- Non-invasive monitoring only
 
 </div>
 
