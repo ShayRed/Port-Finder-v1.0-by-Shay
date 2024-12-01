@@ -22,6 +22,17 @@ Monitor connections, analyze network traffic, and track server performance with 
 [Technical Details](#%EF%B8%8F-technical-details) •
 [License](#-license)
 
+## Antivirus Notice ⚠️
+
+Some antivirus programs may report a false positive. This is due to the way Python programs are compiled into EXE files. The tool is 100% safe and open source - you can verify the source code yourself.
+
+If you receive a warning:
+1. Add the folder to your antivirus exceptions
+2. Use the "Run anyway" option
+3. Or compile the tool from source code yourself
+
+This is a common issue with Python-compiled executables and occurs because the tool needs system access to monitor network connections and processes.
+
 </div>
 
 ## ✨ Features
