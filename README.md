@@ -16,11 +16,11 @@
 Advanced real-time network monitoring tool specifically designed for Metin2 and game servers. 
 Monitor connections, analyze network traffic, and track server performance with an elegant CLI interface.
 
-[Key Features](#features) •
-[Installation](#installation) •
-[Usage](#usage) •
-[Technical Details](#technical-details) •
-[License](#license)
+[Features](#-features) •
+[Installation](#-installation) •
+[Usage](#-usage) •
+[Technical Details](#%EF%B8%8F-technical-details) •
+[License](#-license)
 
 </div>
 
@@ -52,4 +52,72 @@ Monitor connections, analyze network traffic, and track server performance with 
 
 ## 🚀 Installation
 
-1. Clone the repository:
+1. Go to [Releases](https://github.com/ShayRed/Port-Finder/releases)
+2. Download the latest `PortFinder.exe`
+3. Place it in your desired location
+
+**System Requirements:**
+- Windows 7/8/10/11
+- Administrator privileges (for port scanning)
+- 4GB RAM recommended
+
+## 🎮 Usage
+
+1. **Start the Tool:**
+   - Double-click `PortFinder.exe`
+   - Or run as administrator for full functionality
+
+2. **Main Menu:**
+   - Select option [1] for Process Monitor
+   - Select option [2] to Exit
+
+3. **Process Monitoring:**
+   - Enter the game process name (default: Metin2.exe)
+   - Watch real-time information
+   - Press Ctrl+C to stop monitoring
+
+4. **Understanding the Display:**
+   ```
+   ╔══ Process Monitor ══╗
+   ║ Process Information
+   ║ Network Connections
+   ║ System Resources
+   ╚═══════════════════╝
+   ```
+
+## ⚙️ Technical Details
+
+### Supported Port Types
+| Server Type | Port Range |
+|------------|------------|
+| Login Server (Standard) | 13000-13100 |
+| Game Server (Standard) | 13100-13300 |
+| P-Server Ports | 10000-10300 |
+| Custom Server Ports | 8000-8300 |
+
+### Features in Detail
+- Real-time process monitoring
+- Active connection tracking
+- Port type recognition
+- Server status analysis
+- System resource monitoring
+
+## 📄 License
+
+This project is licensed under the MIT License - see the [LICENSE](LICENSE) file for details.
+
+## ❗ Important Notes
+
+- Run as administrator for full functionality
+- Firewall might ask for permission on first run
+- For game servers only - do not use for unauthorized scanning
+
+---
+
+<div align="center">
+
+### Made with ❤️ by Shaay
+
+[![GitHub](https://img.shields.io/badge/GitHub-Follow-blue.svg?style=for-the-badge&logo=github)](https://github.com/ShayRed)
+
+</div>
