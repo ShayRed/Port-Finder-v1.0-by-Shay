@@ -23,6 +23,8 @@ Monitor connections, analyze network traffic, and track server performance with 
 [License](#-license)
 
 
+</div>
+
 
 ## ⚠️ Antivirus Notice
 
@@ -60,7 +62,6 @@ All operations are:
 - Locally executed
 - Non-invasive monitoring only
 
-</div>
 
 ## ✨ Features
 
