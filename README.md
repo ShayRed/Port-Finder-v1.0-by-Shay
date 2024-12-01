@@ -10,7 +10,7 @@
 [![Status](https://img.shields.io/badge/status-active-success.svg?style=for-the-badge)](https://github.com/ShayRed/Port-Finder)
 
 <p align="center">
-  <img src="preview.png" alt="Port Finder Preview" width="800">
+  <img src="Preview.png" alt="Port Finder Preview" width="800">
 </p>
 
 Advanced real-time network monitoring tool specifically designed for Metin2 and game servers. 
