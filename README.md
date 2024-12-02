@@ -91,7 +91,7 @@ All operations are:
 
 ## 🚀 Installation
 
-1. Go to [Releases](https://github.com/ShayRed/Port-Finder/releases)
+1. Go to [Releases]([https://github.com/ShayRed/Port-Finder/releases](https://github.com/ShayRed/Port-Finder-v1.0-by-Shay/tree/2f58830cab5a9fade34405409a471c674003209b/Releases))
 2. Download the latest `PortFinder.exe`
 3. Place it in your desired location
 
